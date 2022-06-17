@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "buildmer"]
+	path = buildmer
+	url = https://github.com/cvoeten/buildmer
+	shallow = true
+	registered = true
+[submodule "permutes"]
+	path = permutes
+	url = https://github.com/cvoeten/permutes
+	shallow = true
+	registered = true
