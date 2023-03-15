@@ -1,10 +1,10 @@
 [
   {
-    "package": "buildmer",
+    "package": "permutes",
     "oncran": true
   },
   {
-    "package": "permutes",
+    "package": "buildmer",
     "oncran": true
   }
 ]
