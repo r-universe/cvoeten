@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "buildmer"]
 	path = buildmer
-	url = https://github.com/cvoeten/buildmer
+	url = https://gitlab.com/cvoeten/buildmer
 [submodule "permutes"]
 	path = permutes
-	url = https://github.com/cvoeten/permutes
+	url = https://gitlab.com/cvoeten/permutes
